@@ -1,4 +1,4 @@
-package uri;
+package solucoesJava;
 
 import java.util.Scanner;
 
@@ -11,7 +11,7 @@ public class TempoJogo {
         int temp;
 
         if (initialHour == finalHour) {
-            
+
             System.out.println("O JOGO DUROU 24 HORA(S)");
 
         } else if (initialHour > finalHour) {

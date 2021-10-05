@@ -1,4 +1,4 @@
-package uri2;
+package solucoesJava;
 
 import java.util.Scanner;
 
@@ -51,18 +51,4 @@ public class Animal {
             }
         }
     }
-//    public static void carnivoro(String vertebra, String classe, String alimentacao){
-//        if(vertebra.equalsIgnoreCase("vertebrado") && classe.equalsIgnoreCase("ave") && alimentacao.equalsIgnoreCase("carnivoro")){
-//            System.out.println("aguia");
-//        }
-//    }
-//    public static void onivoro(){
-//        
-//    }
-//    public static void hematofago(){
-//        
-//    }
-//    public static void herbivoro(){
-//        
-//    }
 }

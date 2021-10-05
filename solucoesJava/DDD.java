@@ -1,5 +1,7 @@
-package uri2;
+package solucoesJava;
+
 import java.util.Scanner;
+
 /**
  *
  * @author Familia
@@ -7,9 +9,9 @@ import java.util.Scanner;
 public class DDD {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        
+
         int num = sc.nextInt();
-        
+
         switch (num) {
             case 61:
                 System.out.println("Brasilia");
@@ -40,5 +42,5 @@ public class DDD {
                 break;
         }
     }
-   
+
 }

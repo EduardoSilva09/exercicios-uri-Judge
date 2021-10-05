@@ -1,4 +1,4 @@
-package uri;
+package solucoesJava;
 
 import java.util.Scanner;
 

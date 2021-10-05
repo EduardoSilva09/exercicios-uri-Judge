@@ -1,4 +1,4 @@
-package uri;
+package solucoesJava;
 
 import java.util.Scanner;
 
@@ -23,7 +23,7 @@ public class TiposTriangulo {
         C = input[2];
 
         tipoTriangulo(A, B, C);
-        
+
         sc.close();
     }
 

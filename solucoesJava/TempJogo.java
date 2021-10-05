@@ -1,4 +1,4 @@
-package uri2;
+package solucoesJava;
 /**
  *
  * @author Familia

@@ -1,4 +1,4 @@
-package uri;
+package solucoesJava;
 
 import java.util.Scanner;
 
@@ -18,7 +18,7 @@ public class sortSimples {
             input[i] = numbers[i];
         }
 
-        for (int i = 0; i < numbers.length -1; i++) {
+        for (int i = 0; i < numbers.length - 1; i++) {
             if (numbers[i] > numbers[i + 1]) { // 4 > 3
                 aux = numbers[i + 1]; // aux = 3
                 numbers[i + 1] = numbers[i]; // 3 = 4
@@ -26,13 +26,13 @@ public class sortSimples {
             }
         }
 
-        for(int num: numbers){
+        for (int num : numbers) {
             System.out.println(num);
         }
 
         System.out.println();
 
-        for(int inp: input){
+        for (int inp : input) {
             System.out.println(inp);
         }
 

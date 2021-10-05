@@ -1,9 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package uri;
+package solucoesJava;
 
 import java.util.Scanner;
 
@@ -11,6 +6,7 @@ import java.util.Scanner;
  *
  * @author eduardo
  */
+
 public class calSimples {
     public static class peca{
         public int cod;

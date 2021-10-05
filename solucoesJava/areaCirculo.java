@@ -1,9 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package uri;
+package solucoesJava;
 
 import java.util.Scanner;
 
@@ -13,7 +8,7 @@ import java.util.Scanner;
  */
 public class areaCirculo {
     public static void main(String[] args) {
-//        area = n* (raio*raio)
+        // area = n* (raio*raio)
         Scanner sc = new Scanner(System.in);
         double n = 3.14159;
         double raio = sc.nextDouble();
