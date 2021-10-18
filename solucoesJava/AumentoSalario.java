@@ -32,6 +32,7 @@ public class AumentoSalario {
             percentual = 4;
             exibir(salario, percentual);
         }
+        sc.close();
     }
 
     private static void exibir(double salario, int percentual) {
