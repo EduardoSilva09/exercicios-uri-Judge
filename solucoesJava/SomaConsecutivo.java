@@ -28,5 +28,6 @@ public class SomaConsecutivo {
         }
         System.out.println("Y = " + Y);
         System.out.println("soma Y = " + somaY);
+        sc.close();
     }
 }

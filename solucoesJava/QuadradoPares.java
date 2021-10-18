@@ -18,6 +18,7 @@ public class QuadradoPares {
                 System.out.println(i + "^2 = " + Math.round(Math.pow(i, 2)));
             }
         }
+        sc.close();
     }
 
 }

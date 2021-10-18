@@ -1,4 +1,4 @@
-package uri;
+package solucoesJava;
 
 //import java.text.DecimalFormat;
 import java.util.Scanner;

@@ -41,6 +41,7 @@ public class DDD {
                 System.out.println("DDD nao cadastrado");
                 break;
         }
+        sc.close();
     }
 
 }
